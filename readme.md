@@ -1,1 +1,1 @@
-# react course from scratch to studing
+# react course start from scratch
